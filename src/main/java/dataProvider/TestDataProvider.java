@@ -6,12 +6,15 @@ import java.util.List;
 
 import org.testng.annotations.DataProvider;
 
+import dataProvider.ExcelReader;
+
+
 public class TestDataProvider {
 
 	
 	@DataProvider(name = "excelLoader")
 	public static Object[][] createData(Method m) {
-	    DataHelper dh = new DataHelper(m.getAnnotation(DataFilter.class).fileName());
+	    ExcelReader dh = new ExcelReader(m.getAnnotation(DataFilter.class).fileName());
 	    Object[][] data = null;
 	    String sheet = m.getAnnotation(DataFilter.class).sheetName();
 	    if (sheet.isEmpty()){

@@ -14,7 +14,7 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import dataProvider.DataHelper;
+import dataProvider.ExcelReader;
 import pages.CustomerManagement;
 import pages.DashBoard;
 import pages.DashBoard.Accounts;
@@ -53,7 +53,7 @@ public class AddCustomerSteps{
 	
 	@When("^user enters data for \"([^\"]*)\" module from excel sheet$")
 	public void user_enters_data_for_module_from_excel_sheet(String arg1) throws Throwable {
-		map = new DataHelper("testData/data.xlsx").setSheet(0).getDataWithHeader("Add Customer");
+		map = new ExcelReader("testData/data.xlsx").setSheet(0).getDataWithHeader("Add Customer");
 		CustomerManagement customers = accounts.clickCustomers();
 		initial = driver.findElements(customers.rowsIdentifier).size();
 		for (Map<String, String> m : map) {

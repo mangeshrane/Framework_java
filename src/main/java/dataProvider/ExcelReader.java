@@ -18,14 +18,14 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import utils.Logging;
 
-public class DataHelper {
+public class ExcelReader {
 
 	private Logger log = Logging.getLogger(getClass());
 
 	private Workbook workbook;
 	private Sheet sheet;
 
-	public DataHelper(String FileName) {
+	public ExcelReader(String FileName) {
 		String FilePath = getClass().getClassLoader().getResource(FileName).getFile();
 		log.info("Fetching fileName: " + FileName + " getting file path: " + FilePath);
 		try {
@@ -43,13 +43,13 @@ public class DataHelper {
 		}
 	}
 
-	public DataHelper setSheet(int sheetNumber) {
+	public ExcelReader setSheet(int sheetNumber) {
 		sheet = workbook.getSheetAt(sheetNumber);
 		log.info("Getting sheet at " + sheetNumber + "Number");
 		return this;
 	}
 
-	public DataHelper setSheet(String sheetName) {
+	public ExcelReader setSheet(String sheetName) {
 		sheet = workbook.getSheet(sheetName);
 		log.info("Getting sheet with name: " + sheetName);
 		return this;
