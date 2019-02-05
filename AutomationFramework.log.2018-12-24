@@ -1,0 +1,65 @@
+2018-12-24 13:15:47,104 INFO [stepDefs.Test] - testing
+2018-12-24 14:34:07,600 INFO [stepDefs.Test] - testing
+2018-12-24 14:34:07,601 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 14:34:07,601 INFO [config.Config] - returning 'browser --> null'
+2018-12-24 14:34:36,935 INFO [stepDefs.Test] - testing
+2018-12-24 14:34:36,936 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 14:34:36,937 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:52:47,897 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 14:52:47,897 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:52:47,903 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:52:47,906 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:52:47,908 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:54:56,882 INFO [stepDefs.Test] - testing
+2018-12-24 14:54:56,883 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 14:54:56,884 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:54:56,884 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:56:24,304 INFO [stepDefs.Test] - testing
+2018-12-24 14:56:24,304 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 14:56:24,305 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:56:24,305 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:56:56,775 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 14:56:56,775 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:56:56,776 INFO [config.Config] - returning 'webdriver.chrome.driver --> null'
+2018-12-24 14:56:56,780 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:56:56,780 INFO [config.Config] - returning 'webdriver.chrome.driver --> null'
+2018-12-24 14:56:56,783 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:56:56,783 INFO [config.Config] - returning 'webdriver.chrome.driver --> null'
+2018-12-24 14:56:56,786 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 14:56:56,786 INFO [config.Config] - returning 'webdriver.chrome.driver --> null'
+2018-12-24 15:00:19,696 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 15:00:19,696 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:00:19,697 INFO [config.Config] - returning 'webdriver.chrome.driver --> null'
+2018-12-24 15:00:19,703 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:00:19,703 INFO [config.Config] - returning 'webdriver.chrome.driver --> null'
+2018-12-24 15:00:19,705 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:00:19,706 INFO [config.Config] - returning 'webdriver.chrome.driver --> null'
+2018-12-24 15:00:19,708 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:00:19,708 INFO [config.Config] - returning 'webdriver.chrome.driver --> null'
+2018-12-24 15:01:58,769 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 15:01:58,769 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:01:58,770 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 15:02:07,108 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:02:07,108 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 15:02:15,882 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:02:15,882 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 15:02:22,084 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:02:22,084 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 15:13:50,570 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 15:13:50,571 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:13:50,571 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 15:14:05,907 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:14:05,907 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 15:14:13,407 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:14:13,407 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 15:14:20,259 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 15:14:20,259 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 17:59:55,545 INFO [config.Config] - Loaded configuration/configuration.properties
+2018-12-24 17:59:55,546 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 17:59:55,546 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 18:00:15,016 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 18:00:15,016 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 18:00:25,382 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 18:00:25,382 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
+2018-12-24 18:00:32,149 INFO [config.Config] - returning 'webdriver.browser --> chrome'
+2018-12-24 18:00:32,149 INFO [config.Config] - returning 'webdriver.chrome.driver --> C:\Users\mrane\Downloads\chromedriver.exe'
